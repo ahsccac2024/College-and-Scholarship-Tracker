@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ReqCheck
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ReqCheck\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ 1.0\r\n
+comment1.params=req\ isComplete
+comment1.target=ReqCheck(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getReqR()
+comment3.params=
+comment3.target=java.lang.String\ getStatusR()
+comment4.params=req
+comment4.target=void\ setReq(java.lang.String)
+comment5.params=status
+comment5.target=void\ setStatus(java.lang.String)
+numComments=6
