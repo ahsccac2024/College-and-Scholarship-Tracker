@@ -10,3 +10,4 @@ VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
+To run, Download all files, and Store them in one folder. Download and Install BlueJ IDE. Run "package.bluej", right click on "MainClass", and select "Run JavaFX Application".
